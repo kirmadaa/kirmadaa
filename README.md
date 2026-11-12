@@ -15,7 +15,6 @@
 <a href="mailto:himanshut0766@gmail.com?subject=Project%20inquiry%20from%20GitHub"><img src="https://img.shields.io/badge/%F0%9F%93%A9_Hire_Me-Email-1f6feb?style=for-the-badge&labelColor=0d1117" alt="Hire me by email"/></a>
 <img src="https://img.shields.io/badge/Status-Available_for_freelance-2ea043?style=for-the-badge&labelColor=0d1117" alt="Available for freelance"/>
 <img src="https://img.shields.io/badge/Certifications-5-f0883e?style=for-the-badge&labelColor=0d1117" alt="5 certifications"/>
-<img src="https://komarev.com/ghpvc/?username=kirmadaa&style=for-the-badge&color=6e7681&labelColor=0d1117&label=PROFILE+VIEWS" alt="Profile views"/>
 
 <br/><br/>
 
