@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Himanshu%20Tripathi&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=DevOps%20%26%20Cloud%20Engineer%20%C2%B7%20Freelancer&descSize=18&descAlignY=60" alt="Himanshu Tripathi - DevOps & Cloud Freelancer" />
+# Himanshu Tripathi
+
+### DevOps & Cloud Engineer · Freelancer
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=I+build+CI%2FCD+pipelines+that+ship+without+drama;I+design+scalable+multi-region+AWS+infrastructure;I+automate+deployments+so+your+team+can+focus+on+product;Open+for+freelance+projects+%E2%80%94+let's+talk" alt="Typing SVG" />
@@ -80,6 +82,5 @@ If your releases are stressful, your infrastructure is a mystery, or your AWS bi
 
 <a href="mailto:himanshut0766@gmail.com?subject=Project%20inquiry%20from%20GitHub"><img src="https://img.shields.io/badge/Email_me_your_project-1f6feb?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email me"/></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=100&section=footer" alt="footer" />
 
 </div>
