@@ -2,10 +2,10 @@
 
 # Himanshu Tripathi
 
-### DevOps & Cloud Engineer · Freelancer
+### DevOps & Cloud Engineer · AWS · Azure · Freelancer
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=I+build+CI%2FCD+pipelines+that+ship+without+drama;I+design+scalable+multi-region+AWS+infrastructure;I+automate+deployments+so+your+team+can+focus+on+product;Open+for+freelance+projects+%E2%80%94+let's+talk" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=I+build+CI%2FCD+pipelines+that+ship+without+drama;I+design+scalable+multi-region+AWS+and+Azure+infrastructure;I+automate+deployments+so+your+team+can+focus+on+product;Open+for+freelance+projects+%E2%80%94+let's+talk" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -19,9 +19,9 @@
 
 ## 👋 Hi, I'm Himanshu
 
-I'm a freelance DevOps and cloud engineer. I help startups and product teams **ship faster and sleep better** by turning slow, manual, fragile deployments into automated, observable, cloud-native pipelines.
+I'm a freelance DevOps and cloud engineer, equally at home on AWS and Azure (with deep Azure DevOps expertise). I help startups and product teams **ship faster and sleep better** by turning slow, manual, fragile deployments into automated, observable, cloud-native pipelines.
 
-If your releases are stressful, your infrastructure is a mystery, or your AWS bill keeps surprising you, that's exactly what I fix.
+If your releases are stressful, your infrastructure is a mystery, or your cloud bill keeps surprising you, that's exactly what I fix.
 
 > 🟢 **Currently accepting freelance projects.** Email me and I'll get back to you quickly.
 
@@ -31,8 +31,9 @@ If your releases are stressful, your infrastructure is a mystery, or your AWS bi
 
 | Service | What you get |
 |---|---|
-| ⚙️ **CI/CD Pipelines** | GitHub Actions workflows for build, test, and deploy, with environment gates, rollbacks and multi-environment promotion (prep → prod) |
+| ⚙️ **CI/CD Pipelines** | GitHub Actions and Azure DevOps pipelines (YAML) for build, test, and deploy, with environment gates, rollbacks and multi-environment promotion (prep → prod) |
 | ☁️ **AWS Infrastructure** | EC2, ECS, ALB, multi-region setups and sensible networking and security defaults |
+| 🔷 **Azure & Azure DevOps** | Azure DevOps Pipelines, Repos, Boards and Artifacts, release gates and approvals, plus Azure services such as App Service, AKS, ACR, Functions, Key Vault and Monitor, with infrastructure as code |
 | 🌐 **Edge & Traffic** | Cloudflare load balancing, SSL/TLS configuration, DNS and failover |
 | 🐳 **Containers** | Dockerizing apps, image build pipelines, service deployments |
 | 🔍 **Audit & Fix** | Failing pipelines, flaky deploys, slow builds, deployment debugging |
@@ -57,6 +58,8 @@ An architecture-first build of an autonomous DevOps platform where every agent a
 <div align="center">
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
